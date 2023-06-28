@@ -1,0 +1,6 @@
+print('32'.isdigit())
+print('\u2083'.isdigit())
+print('beach'.isdigit())
+print('number32'.isdigit())
+print('1 2 3'.isdigit())
+print('@32#'.isdigit())
